@@ -5,7 +5,7 @@ module Autoupdate
     module_function
 
     def name
-      "com.github.domt4.homebrew-autoupdate"
+      "com.github.jontutcher.homebrew-autoupdate"
     end
 
     def plist
